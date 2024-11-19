@@ -33,7 +33,7 @@ Execute the program using runserver command.
   </head>
   <center>
   <body>
-    <img src="C:\Users\sutha\Documents\FIRSTSEM\FWAD\SLOT-EX-3\logo.png" width="800"><br><br>
+    <img src="logo.png" width="800"><br><br>
    <table> <tr><td></td><td>SLOT TIME TABLE -SUDHARSAN S (24900437)</td></table>
     <table border="5" bgcolor="cyan">
       <tr>
