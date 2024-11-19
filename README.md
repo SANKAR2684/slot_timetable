@@ -33,55 +33,60 @@ Execute the program using runserver command.
   </head>
   <center>
   <body>
-    <img src="C:\Users\sutha\Documents\FIRSTSEM\FWAD\SLOT-EX-3\logo.png" width="800"><br><br>
-   <table> <tr><td></td><td>SLOT TIME TABLE -SUDHARSAN S (24900437)</td></table>
-    <table border="5" bgcolor="cyan">
+    <img src="logo.png" width="800"><br><br>
+    
+   <table> <tr><td></td><td>SLOT TIME TABLE -Sankar S (24900401)</td></table>
+    <table border="5"  width="50%" align="center" bgcolor="cyan">
+
       <tr>
-        <th bgcolor="yellow">Day/Time</th>
-        <th bgcolor="yellow">Monday</th>
-        <th bgcolor="yellow">Tuesday</th>
-        <th bgcolor="yellow">Wednesday</th>
-        <th bgcolor="yellow">Thursday</th>
-        <th bgcolor="yellow">Friday</th>
+         <th bgcolor="yellow">DAY/TIME</th>
+         <th bgcolor="yellow">MONDAY</th>
+         <th bgcolor="yellow">TUESDAY</th>
+         <th bgcolor="yellow">WEDNESDAY</th>
+         <th bgcolor="yellow">THURSDAY</th>
+         <th bgcolor="yellow">FRIDAY</th>
+         <th bgcolor="yellow">SATURDAY</th>
+      </tr>
+
+     
+      <tr align="center">
+         
+         <td bgcolor="yellow">8:00AM-10:00AM</td> 
+         <td>FREE SLOT</td> 
+         <td bgcolor="green" style="color:aliceblue">BEE</td> 
+         <td bgcolor="white" style="color:black">MATH</td> 
+         <td>PHYSICS</td>
+         <td>-</td>
+         <td>-</td>
+
+      </tr>
+      <tr align="center">
+         <td bgcolor="yellow">10:00AM-12:00PM</td> 
+         <td bgcolor="white" style="color:black">SOFT SKILLS</td> 
+         <td bgcolor="brown"style="color:aliceblue"> DE </td> 
+         <td bgcolor="green"style="color:aliceblue"> BEE </td> 
+         <td>MATH</td>
+         <td bgcolor="orange" style="color:aliceblue"> DE</td>
+         <td bgcolor="blue" style="color:aliceblue">FWAD</td>
+      </tr>
+      <tr>
+         <td bgcolor="yellow">12:00PM-1:00pm</td>
+         <td align="center" COLSPAN="6">LUNCH BREAK
+         </td>
+ 
       </tr>
 
       <tr align="center">
-        <th bgcolor="yellow">8-10</th>
-        <td colspan="3">FREE SLOT</td>
-        <td>BEE</td>
-        <td>PY.MODULE</td> 
-      </tr>
+      <td bgcolor="yellow">1:00PM-3:00AM</td> 
+      <td bgcolor="gray" style="color:aliceblue">PYTHON</td> 
+      <td bgcolor="blue" style="color:aliceblue">FWAD</td> 
+      <td>MENTOR</td> 
+      <td bgcolor="blue" style="color:aliceblue">FWAD</td>
+      <td bgcolor="brown" style="color:aliceblue">PHYSICS</td>
+      <td bgcolor="orange" style="color:aliceblue">PYTHON</td>
 
-      <tr align="center">
-        <th bgcolor="yellow">10-12</th>
-        <td>TAMIL</td>
-        <td>FREE SLOT</td>
-        <td>FWAD</td>
-        <td>FWAD</td>
-        <td>BEEE</td>
-      </tr>
-
-      <tr align="center">
-        <th bgcolor="yellow">12-1</th>
-        <td colspan="5">LUNCH</td>
-      </tr>
-
-      <tr align="center">
-        <th bgcolor="yellow">1-3</th>
-        <td colspan="2">FREE SLOT</td>
-        <td>MAT</td>
-        <td>MATH</td>
-        <td>DE</td>
-      </tr>
-
-      <tr align="center">
-        <th bgcolor="yellow">3-5</th>
-        <td colspan="2">FREE SLOT</td>
-        <td>TAMIL</td>
-        <td>BEEE</td>
-        <td>FWAD</td>
-      </tr>
-    </table><br><br>
+     </tr>
+   </table><br><br>
 
     <table border="5">
 
@@ -99,84 +104,108 @@ Execute the program using runserver command.
 
 
       <tr>
-        <th>
+        <td>
           1.
-        </th>
-        <th>
+        </td>
+        <td>
           19AI414
-        </th>
-        <th>
+        </td>
+        <td>
           Fundamentals of Web Application Development(FWAD)
-        </th>
+        </td>
       </tr>
 
 
       <tr>
-        <th>
+        <td>
           2.
-        </th>
-        <th>
+        </td>
+        <td>
           19MA201
-        </th>
-        <th>
+        </td>
+        <td>
           Calculas and Matrix Algebra(MAT)
-        </th>
+        </td>
       </tr>
 
       <tr>
-        <th>
+        <td>
          3.
-        </th>
-        <th>
+        </td>
+        <td>
           19AI301
-        </th>
-        <th>
+        </td>
+        <td>
           Python Programming(PYTHON)
-        </th>
+        </td>
       </tr>
 
       <tr>
-        <th>
+        <td>
           4.
-        </th>
-        <th>
+        </td>
+        <td>
           SH7101
-        </th>
-        <th>
+        </td>
+        <td>
           Heritage Of Tamils(TAMIL)
-        </th>
+        </td>
       </tr>
 
       <tr>
-        <th>
+        <td>
           5.
-        </th>
-        <th>
+        </td>
+        <td>
           19EE305
-        </th>
-        <th>
+        </td>
+        <td>
           Basic Electrical ,Electronics and Measurment Engineering(BEEE)
-        </th>
+        </td>
       </tr>
 
       <tr>
-        <th>
+        <td>
           6.
-        </th>
-        <th>
+        </td>
+        <td>
           19EE404
-        </th>
-        <th>
+        </td>
+        <td>
           Digital Electronics(DE)
-        </th>
+        </td>
       </tr>
+
+      <tr>
+        <td>
+          7.
+        </td>
+        <td>
+          19EY708
+        </td>
+        <td>
+          Soft Skills
+        </td>
       </tr>
+
+      <tr>
+        <td>
+          8.
+        </td>
+        <td>
+          SH3214
+        </td>
+        <td>
+          Physics for quantum computing
+        </td>
+      </tr>
+
     </table>
   </body>
 </center>
 </html>
 ```
 ## OUTPUT
-![alt text](<Screenshot 2024-11-19 171655.png>)
+![alt text](<Screenshot 2024-11-19 185332.png>)
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
